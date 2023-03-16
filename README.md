@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StrongLiekBull/Mukuro
 - WALKSPEED 
 - JUMPSPEED
 - GRAVITY
-- RAID FEATURES
+# RAID FEATURES
 ```
 KILL AURA
 AUTO AWAKENER
@@ -33,12 +33,12 @@ AUTO NEXT ISLAND
 AUTO RAID
 AUTO BUY MICROCHIP
 AUTO LAW RAID
-AUTO BUY CHIP LAW RAID```
-- ESP
+AUTO BUY CHIP LAW RAID
 ```
-ESP PLAYER
+# ESP
+``ESP PLAYER
 ESP CHEST
-ESP DEVIL FRUIT``
+ESP DEVIL FRUIT```
 - BRING FRUIT
 - AUTO BUY DEVIL FRUIT
 - AUTO DROP FRUIT
@@ -55,7 +55,7 @@ ESP DEVIL FRUIT``
 - REMOVE LAVA
 - BEAUTIFUL MODE
 
-# Images
+# Image Showcase
 
 ### Main
 ![image](https://media.discordapp.net/attachments/1062287278187221013/1085938701718274068/image.png?width=371&height=406)
@@ -71,6 +71,3 @@ ESP DEVIL FRUIT``
 ![image](https://media.discordapp.net/attachments/1062287278187221013/1085939670480867378/image.png?width=374&height=409)
 ### Mics
 ![image](https://media.discordapp.net/attachments/1062287278187221013/1085939812357386330/image.png?width=373&height=402)
-
-
-# Any inquiries? Contact me on Discord: windows cheese chips flavored#3516
